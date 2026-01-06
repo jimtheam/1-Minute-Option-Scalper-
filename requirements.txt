@@ -1,8 +1,0 @@
-streamlit
-pandas
-requests
-plotly
-yfinance
-pytz
-# 下面这一行是重点，直接从 GitHub 安装 pandas_ta 的最新修复版
-git+https://github.com/twopirllc/pandas-ta.git@development
