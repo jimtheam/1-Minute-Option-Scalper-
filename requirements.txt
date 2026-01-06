@@ -1,7 +1,0 @@
-streamlit==1.39.0
-pandas
-pandas_ta
-requests
-plotly
-yfinance
-pytz
